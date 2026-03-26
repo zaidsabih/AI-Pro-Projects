@@ -16,7 +16,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 | 01   | Automated YouTube Mixtape Creation with Python  | Beginner|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Automated-YouTube-Mixtape-Creation-with-Python.git)||  |
 | 02   | Smart Attendance Portal with Supabase   | Intermediate     | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Smart-Attendance-Portal-with-Supabase.git) |  |
 |03| Intelligent Timetable Generator with Genetic Algorithm |Advanced |[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Intelligent-Timetable-Generator-with-Genetic-Algorithm.git) || 
-|04 |PCAP StoryTeller| Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/PCAP-StoryTeller.git)||
+ |04 |PCAP StoryTeller| Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/PCAP-StoryTeller.git)||
 
 ---
 
@@ -26,6 +26,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 |------|-------------|-------|------------|------------|
 | 01 | NexusViewPro – Jupyter Web Viewer Package | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/End-to-End-NexusView-Package.git) |  |
 |02|Books Recommender System | Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Books-Recommender-System.git)|
+|03| AI-Powered-Content-Summarisation |Advanced|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/AI-Powered-Content-Summarisation.git)||
 
 ---
 
