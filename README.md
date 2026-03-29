@@ -17,6 +17,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 | 02   | Smart Attendance Portal with Supabase   | Intermediate     | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Smart-Attendance-Portal-with-Supabase.git) |  |
 |03| Intelligent Timetable Generator with Genetic Algorithm |Advanced |[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Intelligent-Timetable-Generator-with-Genetic-Algorithm.git) || 
  |04 |PCAP StoryTeller| Advanced | [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/PCAP-StoryTeller.git)||
+ |05| Python Mega Project - Personal AI Voice Assistant System |Advanced|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Python-Mega-Project-Personal-AI-Voice-Assistant-System.git)||
 
 ---
 
