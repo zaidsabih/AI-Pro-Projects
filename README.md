@@ -127,6 +127,7 @@ Build production-ready applications, master modern tech stacks, and showcase pra
 |16| YouTube-Content-Creation-Agent|Intermediate|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/YouTube-Content-Creation-Agent.git)||
 |17|AI-Powered Customer Support Agent with Memory and Tool Calling|Intermediate|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/zaidsabih/AI-Powered-Customer-Support-Agent-with-Memory-and-Tool-Calling.git)||
 |18|Insurance-Claim-Support-AI-Agent-with-LangMem-and-RAG|Intermediate| [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Insurance-Claim-Support-AI-Agent-with-LangMem-and-RAG.git)||
+|19|Advanced-AI-GitHub-PR-Code-Reviewer|Advanced|[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/mdzaheerjk/Advanced-AI-GitHub-PR-Code-Reviewer.git)||
 
 ---
 
